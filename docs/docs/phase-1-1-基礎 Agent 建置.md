@@ -22,19 +22,19 @@
 
 ## 🐛 遇到的問題
 
-使用 `AQ.` Key 後，Hermes Agent 的 API routing 出現問題，請求被導向 Vertex AI Express，出現：
+使用 `AQ.` Key 後，Hermes Agent 的 API routing 出現問題，不斷失敗，出現：
 
 ```text
 403 BILLING_DISABLED
 ```
 
-原本以為是 Billing 的問題，但我不想為了測試開啟付費功能，所以直接去看 Hermes Agent 的原始碼，最後找到 API routing 的原因。
+起初研判是 Billing 相關問題，但由於不希望為了測試而開啟付費功能，因此改為透過與 GPT 持續對話，逐步測試與排查，最終找出造成問題的設定。
 
 ---
 
 ## 🔧 解決方式
 
-確認問題後，調整 Hermes Agent 的 API routing，讓 API 請求改回 Gemini API endpoint。
+透過與 GPT 來回討論與測試，調整了原本的 API 設定方式。
 
 重新測試後：
 
