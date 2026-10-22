@@ -10,7 +10,7 @@
 
 在將 `USER.md` 寫入 `~/.hermes/memories/` 後，我重新啟動並問它：「你好」。
 
-
+<img width="620" height="437" alt="Image" src="https://github.com/user-attachments/assets/ba4566dd-9f57-4a03-b950-4004d4971e44" />
 
 **觀察與分析：**
 它沒有像一般 AI 給出制式的「您好，有什麼我可以幫忙的嗎？」，反而直接套用 `SOUL.md` 的「刀子嘴」語氣吐槽我：「就像每天照鏡子，還硬要湊過來問我... 你今天是來抽考的嗎？」
@@ -27,7 +27,11 @@
 接著，我丟出一個需要深度評估的問題：
 > 「我有一個新點子：想做一個專門給大學生用的『企管報告自動生成器』。幫我用專案評估模式（描述、權衡、可行性、自我定位、分期）來分析這個點子該不該做。」
 
+<img width="607" height="630" alt="Image" src="https://github.com/user-attachments/assets/1cad4a02-51e4-49fa-8b3d-addc799a1055" />
 
+<img width="567" height="722" alt="Image" src="https://github.com/user-attachments/assets/0b61a659-bd69-46cf-be00-75e039de52f7" />
+
+<img width="590" height="415" alt="Image" src="https://github.com/user-attachments/assets/6f7f3239-8256-44f2-abca-0b9ddc0fdf27" />
 
 **觀察與分析：**
 這次的回覆極度驚豔。它不只完全遵守 `AGENTS.md` 中設定的「五步評估流程」，還結合了我的企管背景與 `SOUL.md` 的風格：
